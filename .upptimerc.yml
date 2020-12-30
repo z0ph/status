@@ -13,6 +13,7 @@ sites:
     url: $HOME_AUTOMATION
     expectedStatusCodes:
       - 302
+      - 301
 
 assignees:
   - z0ph
