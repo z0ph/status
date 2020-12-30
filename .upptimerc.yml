@@ -14,6 +14,9 @@ sites:
     expectedStatusCodes:
       - 302
 
+assignees:
+  - z0ph
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.zoph.me
@@ -21,13 +24,17 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status.zoph.me
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Personal Monitoring for zoph.me endpoints.
+  introTitle: "Personal Monitoring for zoph.me endpoints."
+  introMessage: 
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: zoph.me
+      href: https://zoph.me
+    - title: zoph.io
+      href: https://zoph.io
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
