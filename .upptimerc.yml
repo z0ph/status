@@ -8,6 +8,7 @@ sites:
     url: https://zoph.me
   - name: zoph.io
     url: https://zoph.io
+    icon: https://zoph.io/img/favicon-32x32.png
   - name: Home Automation
     url: $HOME_AUTOMATION
     expectedStatusCodes:
