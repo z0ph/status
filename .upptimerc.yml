@@ -10,6 +10,8 @@ sites:
     url: https://zoph.io
   - name: Home Automation
     url: $HOME_AUTOMATION
+    expectedStatusCodes:
+      - 302
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -19,7 +21,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status.zoph.me
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Personal Monitoring
+  introMessage: Personal Monitoring for zoph.me endpoints.
   navbar:
     - title: Status
       href: /
