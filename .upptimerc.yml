@@ -11,9 +11,7 @@ sites:
     icon: https://zoph.io/img/favicon-32x32.png
   - name: Home Automation
     url: $SECRET_SITE
-    expectedStatusCodes:
-      - 302
-      - 301
+
 
 assignees:
   - z0ph
