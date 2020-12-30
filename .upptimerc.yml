@@ -11,6 +11,7 @@ sites:
     icon: https://zoph.io/img/favicon-32x32.png
   - name: Home Automation
     url: $SECRET_SITE
+    icon: https://www.jeedom.com/favicon.ico
 
 
 assignees:
@@ -21,9 +22,9 @@ status-website:
   cname: status.zoph.me
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: status.zoph.me
-  introTitle: "Personal Monitoring for zoph.me endpoints."
+  logoUrl: https://zoph.io/img/logo-small.png
+  name: Upptime - zoph.me
+  introTitle: "Monitoring for zoph.me endpoints"
   introMessage: 
   navbar:
     - title: Status
