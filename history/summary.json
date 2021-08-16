@@ -42,7 +42,7 @@
     "url": "$SECRET_SITE",
     "icon": "https://www.jeedom.com/favicon.ico",
     "slug": "home-automation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +54,7 @@
     "timeMonth": 800,
     "timeYear": 766,
     "dailyMinutesDown": {
+      "2021-08-16": 0,
       "2021-06-10": 89,
       "2021-05-21": 72,
       "2021-05-06": 186,
