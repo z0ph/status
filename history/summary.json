@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 734,
-    "timeDay": 530,
-    "timeWeek": 337,
-    "timeMonth": 574,
-    "timeYear": 711,
+    "timeDay": 246,
+    "timeWeek": 327,
+    "timeMonth": 576,
+    "timeYear": 706,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 814,
-    "timeDay": 291,
-    "timeWeek": 443,
+    "timeDay": 214,
+    "timeWeek": 415,
     "timeMonth": 335,
-    "timeYear": 697,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2021-08-11": 28
     }
@@ -43,15 +43,15 @@
     "icon": "https://www.jeedom.com/favicon.ico",
     "slug": "home-automation",
     "status": "up",
-    "uptime": "86.69%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "45.73%",
-    "uptimeMonth": "11.90%",
+    "uptime": "86.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "59.86%",
+    "uptimeMonth": "15.16%",
     "uptimeYear": "82.38%",
     "time": 781,
-    "timeDay": 1247,
-    "timeWeek": 1225,
-    "timeMonth": 1225,
+    "timeDay": 700,
+    "timeWeek": 1150,
+    "timeMonth": 1150,
     "timeYear": 790,
     "dailyMinutesDown": {
       "2022-05-04": 26,
@@ -124,8 +124,7 @@
       "2021-12-09": 44,
       "2021-08-16": 26,
       "2021-06-10": 89,
-      "2021-05-21": 72,
-      "2021-05-06": 186
+      "2021-05-21": 72
     }
   }
 ]
