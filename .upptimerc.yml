@@ -13,6 +13,12 @@ sites:
   - name: AWS Security Digest
     url: https://app.mailbrew.com/zoph/aws-security-digest-HrkhwqNrwBBk
     icon: https://app.mailbrew.com/icon/favicon-32x32.png
+  - name: unusd.cloud
+    url: https://unusd.cloud
+    icon: https://unusd.cloud/images/favicon.png
+  - name: unusd.cloud - backstage
+    url: https://app.unusd.cloud
+    icon: https://unusd.cloud/images/favicon.png
   - name: Home Automation
     url: $SECRET_SITE
     icon: https://www.jeedom.com/favicon.ico
