@@ -9,6 +9,9 @@ sites:
   - name: zoph.io
     url: https://zoph.io
     icon: https://zoph.io/img/favicon-32x32.png
+  - name: AWS Security Digest
+    url: https://app.mailbrew.com/zoph/aws-security-digest-HrkhwqNrwBBk
+    icon: https://app.mailbrew.com/icon/favicon-32x32.png
   - name: Home Automation
     url: $SECRET_SITE
     icon: https://www.jeedom.com/favicon.ico
