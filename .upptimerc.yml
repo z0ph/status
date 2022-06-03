@@ -6,6 +6,7 @@ repo: status # Your GitHub repository name
 sites:
   - name: zoph.me
     url: https://zoph.me
+    icon: https://zoph.me/favicon-32x32.png
   - name: zoph.io
     url: https://zoph.io
     icon: https://zoph.io/img/favicon-32x32.png
