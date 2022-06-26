@@ -42,9 +42,9 @@
     "url": "https://app.mailbrew.com/zoph/aws-security-digest-HrkhwqNrwBBk",
     "icon": "https://app.mailbrew.com/icon/favicon-32x32.png",
     "slug": "aws-security-digest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 536,
     "timeMonth": 783,
     "timeYear": 783,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-26": 0
+    }
   },
   {
     "name": "unusd.cloud",
@@ -97,7 +99,7 @@
     "icon": "https://www.jeedom.com/favicon.ico",
     "slug": "home-automation",
     "status": "up",
-    "uptime": "87.94%",
+    "uptime": "87.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
