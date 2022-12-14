@@ -1,7 +1,7 @@
 url: https://app.mailbrew.com/zoph/aws-security-digest-HrkhwqNrwBBk
-status: up
-code: 200
-responseTime: 433
-lastUpdated: 2022-12-13T23:08:20.879Z
+status: down
+code: 502
+responseTime: 103
+lastUpdated: 2022-12-14T22:59:34.938Z
 startTime: Fri Jun 03 2022 12:40:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
