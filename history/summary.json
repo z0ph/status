@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 432,
-    "timeDay": 147,
-    "timeWeek": 317,
+    "timeDay": 283,
+    "timeWeek": 306,
     "timeMonth": 296,
     "timeYear": 422,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 159,
-    "timeWeek": 298,
-    "timeMonth": 314,
-    "timeYear": 322,
+    "time": 321,
+    "timeDay": 470,
+    "timeWeek": 315,
+    "timeMonth": 318,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 792,
-    "timeDay": 365,
-    "timeWeek": 816,
-    "timeMonth": 718,
-    "timeYear": 798,
+    "time": 800,
+    "timeDay": 4112,
+    "timeWeek": 985,
+    "timeMonth": 838,
+    "timeYear": 807,
     "dailyMinutesDown": {
       "2022-12-06": 22,
       "2022-10-20": 20,
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 398,
-    "timeDay": 260,
-    "timeWeek": 310,
-    "timeMonth": 353,
+    "timeDay": 420,
+    "timeWeek": 320,
+    "timeMonth": 356,
     "timeYear": 398,
     "dailyMinutesDown": {}
   },
@@ -86,9 +86,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 585,
-    "timeDay": 190,
-    "timeWeek": 687,
+    "time": 584,
+    "timeDay": 330,
+    "timeWeek": 707,
     "timeMonth": 460,
     "timeYear": 563,
     "dailyMinutesDown": {}
@@ -99,14 +99,14 @@
     "icon": "https://www.jeedom.com/favicon.ico",
     "slug": "home-automation",
     "status": "up",
-    "uptime": "91.32%",
+    "uptime": "91.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.21%",
     "time": 934,
-    "timeDay": 647,
-    "timeWeek": 854,
+    "timeDay": 955,
+    "timeWeek": 885,
     "timeMonth": 909,
     "timeYear": 903,
     "dailyMinutesDown": {
@@ -132,8 +132,7 @@
       "2022-07-31": 1440,
       "2022-07-30": 262,
       "2022-07-07": 145,
-      "2022-07-06": 112,
-      "2022-07-03": 830
+      "2022-07-06": 112
     }
   }
 ]
