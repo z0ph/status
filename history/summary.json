@@ -4,18 +4,20 @@
     "url": "https://zoph.me",
     "icon": "https://zoph.me/favicon-32x32.png",
     "slug": "zoph-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
-    "timeDay": 279,
-    "timeWeek": 261,
-    "timeMonth": 286,
-    "timeYear": 408,
-    "dailyMinutesDown": {}
+    "timeDay": 176,
+    "timeWeek": 237,
+    "timeMonth": 279,
+    "timeYear": 407,
+    "dailyMinutesDown": {
+      "2023-07-18": 0
+    }
   },
   {
     "name": "zoph.io",
