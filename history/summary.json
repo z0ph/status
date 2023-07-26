@@ -62,19 +62,19 @@
     "url": "https://unusd.cloud",
     "icon": "https://unusd.cloud/images/favicon.png",
     "slug": "unusd-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 396,
-    "timeDay": 256,
-    "timeWeek": 335,
-    "timeMonth": 350,
+    "timeDay": 370,
+    "timeWeek": 354,
+    "timeMonth": 354,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 17
     }
   },
   {
