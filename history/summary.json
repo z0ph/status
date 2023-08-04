@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 324,
-    "timeWeek": 330,
-    "timeMonth": 282,
+    "time": 416,
+    "timeDay": 301,
+    "timeWeek": 316,
+    "timeMonth": 285,
     "timeYear": 376,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
-    "timeDay": 364,
-    "timeWeek": 354,
-    "timeMonth": 436,
-    "timeYear": 331,
+    "timeDay": 227,
+    "timeWeek": 348,
+    "timeMonth": 434,
+    "timeYear": 330,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 787,
-    "timeDay": 455,
-    "timeWeek": 488,
-    "timeMonth": 620,
+    "timeDay": 683,
+    "timeWeek": 527,
+    "timeMonth": 553,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2022-12-06": 22,
@@ -69,9 +69,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 395,
-    "timeDay": 235,
-    "timeWeek": 352,
-    "timeMonth": 361,
+    "timeDay": 314,
+    "timeWeek": 340,
+    "timeMonth": 356,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2023-07-26": 17
@@ -88,10 +88,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 246,
-    "timeWeek": 303,
-    "timeMonth": 364,
+    "time": 567,
+    "timeDay": 235,
+    "timeWeek": 298,
+    "timeMonth": 362,
     "timeYear": 544,
     "dailyMinutesDown": {}
   },
@@ -101,15 +101,15 @@
     "icon": "https://www.jeedom.com/favicon.ico",
     "slug": "home-automation",
     "status": "up",
-    "uptime": "91.61%",
+    "uptime": "91.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.29%",
+    "uptimeYear": "97.57%",
     "time": 927,
-    "timeDay": 941,
-    "timeWeek": 1003,
-    "timeMonth": 888,
+    "timeDay": 885,
+    "timeWeek": 982,
+    "timeMonth": 894,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2023-05-09": 90,
@@ -126,8 +126,7 @@
       "2022-08-08": 1440,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
-      "2022-08-05": 1440,
-      "2022-08-04": 1440
+      "2022-08-05": 1440
     }
   }
 ]
