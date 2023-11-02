@@ -40,9 +40,9 @@
     "url": "https://app.mailbrew.com/zoph/aws-security-digest-HrkhwqNrwBBk",
     "icon": "https://app.mailbrew.com/icon/favicon-32x32.png",
     "slug": "aws-security-digest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 634,
     "timeYear": 686,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2022-12-06": 22
     }
   },
