@@ -11,8 +11,8 @@ sites:
     url: https://zoph.io
     icon: https://zoph.io/img/favicon-32x32.png
   - name: AWS Security Digest
-    url: https://app.mailbrew.com/zoph/aws-security-digest-HrkhwqNrwBBk
-    icon: https://app.mailbrew.com/icon/favicon-32x32.png
+    url: https://awssecuritydigest.com
+    icon: https://assets.super.so/36807d35-bcb2-4696-929d-8ce7dcd9d904/uploads/favicon/7baf297c-b988-4b52-ab1d-a76e98ba2e31.png
   - name: unusd.cloud
     url: https://unusd.cloud
     icon: https://unusd.cloud/images/favicon.png
