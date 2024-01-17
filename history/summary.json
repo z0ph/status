@@ -40,18 +40,20 @@
     "url": "https://awssecuritydigest.com",
     "icon": "https://assets.super.so/36807d35-bcb2-4696-929d-8ce7dcd9d904/uploads/favicon/7baf297c-b988-4b52-ab1d-a76e98ba2e31.png",
     "slug": "aws-security-digest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 311,
-    "timeWeek": 162,
-    "timeMonth": 135,
-    "timeYear": 605,
-    "dailyMinutesDown": {}
+    "time": 639,
+    "timeDay": 734,
+    "timeWeek": 287,
+    "timeMonth": 167,
+    "timeYear": 607,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "unusd.cloud",
@@ -101,7 +103,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.25%",
+    "uptimeYear": "92.26%",
     "time": 903,
     "timeDay": 1085,
     "timeWeek": 1072,
