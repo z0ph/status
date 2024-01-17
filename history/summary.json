@@ -40,19 +40,19 @@
     "url": "https://awssecuritydigest.com",
     "icon": "https://assets.super.so/36807d35-bcb2-4696-929d-8ce7dcd9d904/uploads/favicon/7baf297c-b988-4b52-ab1d-a76e98ba2e31.png",
     "slug": "aws-security-digest",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 639,
-    "timeDay": 734,
-    "timeWeek": 287,
-    "timeMonth": 167,
-    "timeYear": 607,
+    "time": 638,
+    "timeDay": 526,
+    "timeWeek": 267,
+    "timeMonth": 165,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 19
     }
   },
   {
