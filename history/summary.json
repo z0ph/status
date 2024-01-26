@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 575,
-    "timeWeek": 516,
-    "timeMonth": 365,
-    "timeYear": 322,
+    "time": 323,
+    "timeDay": 400,
+    "timeWeek": 493,
+    "timeMonth": 367,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 566,
-    "timeWeek": 509,
-    "timeMonth": 563,
+    "timeDay": 388,
+    "timeWeek": 508,
+    "timeMonth": 561,
     "timeYear": 411,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 128,
-    "timeWeek": 125,
-    "timeMonth": 167,
-    "timeYear": 596,
+    "time": 628,
+    "timeDay": 101,
+    "timeWeek": 127,
+    "timeMonth": 165,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2024-01-17": 19
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 1284,
-    "timeWeek": 910,
-    "timeMonth": 644,
-    "timeYear": 402,
+    "time": 392,
+    "timeDay": 839,
+    "timeWeek": 911,
+    "timeMonth": 661,
+    "timeYear": 403,
     "dailyMinutesDown": {
       "2023-07-26": 17
     }
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 519,
-    "timeDay": 605,
-    "timeWeek": 592,
-    "timeMonth": 540,
-    "timeYear": 465,
+    "timeDay": 389,
+    "timeWeek": 585,
+    "timeMonth": 531,
+    "timeYear": 460,
     "dailyMinutesDown": {}
   },
   {
@@ -104,10 +104,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.26%",
-    "time": 906,
-    "timeDay": 1277,
-    "timeWeek": 957,
-    "timeMonth": 952,
+    "time": 905,
+    "timeDay": 931,
+    "timeWeek": 958,
+    "timeMonth": 948,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2023-12-06": 20,
